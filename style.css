@@ -1,0 +1,103 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Microsoft JhengHei, Heiti TC;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    line-height: 80px;
+}
+
+.toppart {
+    height: 600px;
+    text-align: center;
+}
+
+.toppart indro {
+    font-size: 80px;
+}
+
+.midpart {
+    height: 50px;
+    background-color: #d60;
+}
+
+.midnav {
+    background-color: #d60;
+    font-size: 24px;
+    line-height: 50px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.bottompart {
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.midpart a {
+    text-decoration: none;
+    background-color: #d60;
+}
+
+.midpart table {
+    border-collapse: collapse;
+}
+
+.midpart td {
+    width: 120px;
+    background-color: #d60;
+    text-align: center;
+}
+
+.membertable table {
+    margin: 0 auto;
+    border: 2px solid#fff;
+}
+
+.membertable th {
+    width: 100px;
+    border: 1px solid#fff;
+}
+
+.membertable tr {
+    width: 100px;
+}
+
+.membertable {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.timetable table {
+    margin: 0 auto;
+    border: 2px solid#fff;
+}
+
+.timetable th {
+    width: 100px;
+    border: 1px solid#fff;
+}
+
+table .theme {
+    width: 300px;
+}
+
+.timetable tr {
+    width: 100px;
+}
+
+.timetable {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 0 auto;
+}
